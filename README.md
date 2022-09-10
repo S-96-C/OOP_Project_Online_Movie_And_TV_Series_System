@@ -47,3 +47,17 @@ There are three benefits from this system. They are user, administration, and ma
   
   <li>updatemovie</li>
 </ol>
+
+### CSS
+
+<ol>
+   <li>account</li>
+  
+  <li>delete</li>
+  
+  <li>insertmovie</li>
+
+  <li>login</li>
+
+  <li>update</li>
+</ol>

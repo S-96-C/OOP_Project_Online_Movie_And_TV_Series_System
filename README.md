@@ -10,6 +10,7 @@ There are three benefits from this system. They are user, administration, and ma
 
 ### Functions that I have selected
 ### Online Movie Cinema - Movies Insert, Movies Retrieve, Movies Delete, Movies Update
+### Java
 
 <ol>
   <li>AdminLoginServlet</li>
@@ -28,4 +29,6 @@ There are three benefits from this system. They are user, administration, and ma
   
   <li>MovieUpdateServlet</li>
 </ol>
+
+### JSP
 

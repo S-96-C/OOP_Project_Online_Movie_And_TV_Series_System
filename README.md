@@ -32,3 +32,18 @@ There are three benefits from this system. They are user, administration, and ma
 
 ### JSP
 
+<ol>
+   <li>adminlogin</li>
+  
+  <li>deletemovie</li>
+  
+  <li>movieinsert</li>
+
+  <li>movieuseraccount</li>
+
+  <li>success</li>
+  
+  <li>unsuccessful</li>
+  
+  <li>updatemovie</li>
+</ol>
